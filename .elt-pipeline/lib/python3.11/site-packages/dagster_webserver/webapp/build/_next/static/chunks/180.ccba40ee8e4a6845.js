@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[180],{28888:function(t,n,e){e.d(n,{T:function(){return o}});var c=e(73235);function _templateObject(){var t=(0,c._)(["\n  height: 100%;\n  overflow-y: auto;\n  padding-bottom: 64px;\n  width: 100%;\n"]);return _templateObject=function(){return t},t}var o=e(35505).ZP.div.withConfig({componentId:"sc-2cf5acf-0"})(_templateObject())}}]);
+//# sourceMappingURL=180.ccba40ee8e4a6845.js.map
