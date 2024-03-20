@@ -1,0 +1,6 @@
+dagster==1.6.11
+dagit==1.6.11
+polars==0.20.16
+dagster-gcp==0.22.11
+dagster-snowflake==0.22.11
+minio==7.2.5
